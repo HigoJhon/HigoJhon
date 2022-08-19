@@ -1,5 +1,5 @@
 ## Ola ! Eu sou o Higo Jhon👋
-<div>
+<div align="center">
   <a href="https://github.com/HigoJhon">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HigoJhon&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigoJhon&layout=compact&langs_count=7&theme=merko"/>
