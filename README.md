@@ -13,6 +13,7 @@
     <img align="center" alt="React-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <img align="center" alt="React-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align="center" alt="React-Icon" height="30" width="40"  src="https://testing-library.com/img/octopus-128x128.png" />
+    <br />
     <img align="center" alt="React-Icon" height="30" width="40"  src="https://img.icons8.com/ios/256/mysql-logo.png" />
   
   
