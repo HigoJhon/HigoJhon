@@ -1,8 +1,9 @@
 ## Ola ! Eu sou o Higo Jhon👋
 <div align="center">
   <a href="https://github.com/HigoJhon">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HigoJhon&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigoJhon&layout=compact&langs_count=7&theme=merko"/>
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HigoJhon&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigoJhon&langs_count=7&theme=merko&include_all_commits=true&count_private=true"/> -->
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higojhon&hide_progress=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block" align="center">
