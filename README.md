@@ -31,4 +31,4 @@
 <div>
   
 ![snake animation](https://github.com/HigoJhon/HigoJhon/blob/output/github-contribution-grid-snake.svg)
-<div>
+</div>
