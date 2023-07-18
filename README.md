@@ -30,5 +30,5 @@
    </div>
 <div>
 
-![snake gif](https://github.com/HigoJhon/HigoJhon/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/HigoJhon/HigoJhon/blob/output/github-contribution-grid-snake.svg)
 <div>
