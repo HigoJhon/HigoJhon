@@ -28,7 +28,7 @@
        <img align="center" alt="sql-server-Icon" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   
    </div>
-<div>
+<!-- <div>
   
 ![snake gif](https://github.com/HigoJhon/HigoJhon/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div> -->
