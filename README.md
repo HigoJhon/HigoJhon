@@ -6,11 +6,6 @@ Sou um desenvolvedor fullstack. Atualmente estou me especializando em .NET e SQL
 
 Estou estudando .NET por causa de sua flexibilidade, segurança e grande comunidade. O .NET me permite criar APIs escaláveis que podem ser facilmente implantadas em diferentes ambientes.
 
-<div align="center">
-    <a href="https://github.com/HigoJhon">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higojhon&hide_progress=true&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 <div style="display: inline_block" align="center">
    <h3>Languages</h3> 
       <img align="center" alt="JavaScrit-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +28,13 @@ Estou estudando .NET por causa de sua flexibilidade, segurança e grande comunid
        <img align="center" alt="sql-server-Icon" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   
    </div>
+<br/>
+
+<div align="center">
+    <a href="https://github.com/HigoJhon">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higojhon&hide_progress=true&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 <!-- <div>
   
 ![snake gif](https://github.com/HigoJhon/HigoJhon/blob/output/github-contribution-grid-snake.svg)
